@@ -1,0 +1,3 @@
+# Edith
+
+Edith is a high-performance Web Scraping Engine meticulously crafted in Rust, combining the robustness of the Rust language with the efficiency required for web data extraction. With Edith, you have a versatile tool at your fingertips, offering unparalleled speed and reliability in harvesting data from the web. Its Rust-based architecture ensures both safety and speed, making Edith a go-to solution for developers seeking a powerful and secure web scraping engine.
